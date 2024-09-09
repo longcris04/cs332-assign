@@ -23,3 +23,14 @@ SLF4J(I): Actual provider is of type [scribe.slf4j.ScribeServiceProvider@5f24aa5
 2024.09.09 19:41:53 INFO  no build target found for /home/longnh/Projects/Courses/Software/cs332-assign/example/src/main/scala/example/main.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
 Sep 09, 2024 7:42:19 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
 INFO: Unsupported notification method: $/setTrace
+2024.09.09 19:42:59 INFO  no build target found for /home/longnh/Projects/Courses/Software/cs332-assign/example/src/main/scala/example/main.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.09.09 19:42:59 INFO  no build target found for /home/longnh/Projects/Courses/Software/cs332-assign/example/src/main/scala/example/main.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.09.09 19:43:25 INFO  no build target found for /home/longnh/Projects/Courses/Software/cs332-assign/example/src/main/scala/example/main.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.09.09 19:43:25 INFO  no build target found for /home/longnh/Projects/Courses/Software/cs332-assign/recfun/src/main/scala/recfun/RecFun.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.09.09 19:43:25 INFO  no build target found for /home/longnh/Projects/Courses/Software/cs332-assign/recfun/src/main/scala/recfun/RecFun.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.09.09 19:43:25 INFO  no build target found for /home/longnh/Projects/Courses/Software/cs332-assign/recfun/src/main/scala/recfun/RecFun.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.09.09 19:43:28 WARN  no build target for: /home/longnh/Projects/Courses/Software/cs332-assign/recfun/src/main/scala/recfun/RecFun.scala[0m
+2024.09.09 19:43:28 INFO  no build target found for /home/longnh/Projects/Courses/Software/cs332-assign/recfun/src/main/scala/recfun/RecFun.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+Sep 09, 2024 7:43:34 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+2024.09.09 19:43:50 INFO  no build target found for /home/longnh/Projects/Courses/Software/cs332-assign/recfun/src/main/scala/recfun/RecFun.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
